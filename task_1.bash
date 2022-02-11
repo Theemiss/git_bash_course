@@ -3,4 +3,4 @@ pwd
 ls -l
 cd
 pwd
-ls 
+ls -la
