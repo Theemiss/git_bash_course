@@ -1,0 +1,12 @@
+#! /bin/bash
+ls f*
+echo ""
+ls *.txt
+echo ""
+ls *li*
+echo ""
+ls ?[[:digit:]]*
+echo ""
+ls [[:upper:]]
+echo ""
+ls *[![:digit:]]
