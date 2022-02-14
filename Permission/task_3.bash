@@ -1,3 +1,2 @@
 #! /bin/bash
-sudo useradd tekouin
-su tekouin
+sudo chmod 753 hello
