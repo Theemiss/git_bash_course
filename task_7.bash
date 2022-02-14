@@ -1,2 +1,2 @@
 #! /bin/bash
-type /tmp/tekouin
+file /tmp/tekouin
