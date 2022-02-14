@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e '^[a-zA-Z]'hello
+grep -e '^[a-zA-Z]' hello
