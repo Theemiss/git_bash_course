@@ -1,2 +1,2 @@
 #! /bin/bash
-ln -s /bin/clear __clear__
+ln -s /bin/ls __ls__
